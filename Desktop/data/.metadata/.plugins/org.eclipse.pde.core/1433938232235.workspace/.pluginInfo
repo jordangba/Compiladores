@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="914" localization="OSGI-INF/l10n/bundle" name="javaCompilador.ui" project="javaCompilador.ui" provider="My Company"/>
+	<bundle bundleID="913" localization="OSGI-INF/l10n/bundle" name="javaCompilador.tests" project="javaCompilador.tests" provider="My Company"/>
+	<bundle bundleID="912" localization="OSGI-INF/l10n/bundle" name="javaCompilador" project="javaCompilador" provider="My Company"/>
+</map>
